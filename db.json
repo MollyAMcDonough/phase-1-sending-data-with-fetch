@@ -1,5 +1,6 @@
 {
-  "dogs": [{
+  "dogs": [
+    {
       "dogName": "Luca",
       "dogBreed": "German Shepherd",
       "id": 1
@@ -8,9 +9,45 @@
       "dogName": "Lola",
       "dogBreed": "Giant Schnauzer",
       "id": 2
+    },
+    {
+      "dogName": "Molly",
+      "dogBreed": "Old and fat",
+      "id": 3
+    },
+    {
+      "dogName": "Molly",
+      "dogBreed": "Old and fat",
+      "id": 4
+    },
+    {
+      "dogName": "Hug",
+      "dogBreed": "pug",
+      "id": 5
+    },
+    {
+      "dogName": "Byron",
+      "dogBreed": "Poodle",
+      "id": 6
+    },
+    {
+      "dogName": "Byron",
+      "dogBreed": "Poodle",
+      "id": 7
+    },
+    {
+      "dogName": "Byron",
+      "dogBreed": "Poodle",
+      "id": 8
+    },
+    {
+      "dogName": "Byron",
+      "dogBreed": "Poodle",
+      "id": 9
     }
   ],
-  "cats": [{
+  "cats": [
+    {
       "catName": "Stanley",
       "catBreed": "Tabby",
       "id": 1
@@ -21,10 +58,103 @@
       "id": 2
     }
   ],
-  "users": [],
-  "robots": [{
-    "robotName": "C8-09S100K",
-    "robotType": "Human Assistant",
-    "id": 9000
-  }]
+  "users": [
+    {
+      "name": "molly",
+      "email": "email@aol.com",
+      "id": 1
+    },
+    {
+      "name": "molly",
+      "email": "email@aol.com",
+      "id": 2
+    },
+    {
+      "name": "molly",
+      "email": "email@aol.com",
+      "id": 3
+    },
+    {
+      "name": "molly",
+      "email": "email@aol.com",
+      "id": 4
+    },
+    {
+      "name": "molly",
+      "email": "email@aol.com",
+      "id": 5
+    },
+    {
+      "name": "molly",
+      "email": "email@aol.com",
+      "id": 6
+    },
+    {
+      "name": "ann",
+      "email": "email@aol.com",
+      "id": 7
+    },
+    {
+      "name": "ann",
+      "email": "email@aol.com",
+      "id": 8
+    },
+    {
+      "name": "ann",
+      "email": "email@aol.com",
+      "id": 9
+    },
+    {
+      "name": "ann",
+      "email": "email@aol.com",
+      "id": 10
+    },
+    {
+      "name": "email@aol.com",
+      "email": "undefined",
+      "id": 11
+    },
+    {
+      "name": "email@aol.com",
+      "email": "undefined",
+      "id": 12
+    },
+    {
+      "name": "email@aol.com",
+      "email": "undefined",
+      "id": 13
+    },
+    {
+      "name": "email@aol.com",
+      "email": "undefined",
+      "id": 14
+    },
+    {
+      "name": "gretchen",
+      "email": "email@aol.com",
+      "id": 15
+    },
+    {
+      "name": "gretchen",
+      "email": "email@aol.com",
+      "id": 16
+    },
+    {
+      "name": "testName",
+      "email": "email",
+      "id": 17
+    },
+    {
+      "name": "name",
+      "email": "lame",
+      "id": 18
+    }
+  ],
+  "robots": [
+    {
+      "robotName": "C8-09S100K",
+      "robotType": "Human Assistant",
+      "id": 9000
+    }
+  ]
 }
